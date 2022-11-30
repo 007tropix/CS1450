@@ -1,0 +1,7 @@
+6
+1212 Memphis
+8107 Denver
+1123 Reno
+3334 Albuquerque
+8080 Jackson
+7029 Salt Lake

@@ -1,0 +1,4 @@
+5
+1 8107 BNSF 0 Coal Denver
+2 8080 AMTRAK 0 Passenger Denver
+4 7029 CSX 0 Autos Texas

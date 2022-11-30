@@ -1,0 +1,4 @@
+Tokyo-Station 0 adventure Tokyo-Olympic-Venue UPDATE: 1st adventure, skinny dipping in Olympic pool 
+Hotel-Mount-Fuji 0 adventure Fuji-Bullet-Train UPDATE: 2nd adventure, bullet train ride to Mt. Fiji! 
+Hotel-Mount-Fuji 0 adventure Mount-Fuji UPDATE: 3rd adventure, flying high on Fuji at 12,388ft! 
+Gorge-Band-Shell 0 adventure Takachiho-Gorge UPDATE: 4th adventure, flying through Takachiho Gorge

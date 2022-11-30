@@ -1,0 +1,6 @@
+4 music Gorge-Band-Shell Karaoke night singing "Free Bird!" 
+5 hotel Hotel-Takachiho Perched by the pool drinking more tequila sunrises
+1 start Tokyo-Station Arrive at train station, say hello to local birds!
+3 airport Fuji-Airport Catch flight to Takachiho
+6 end Kumamoto-Airport Catch a flight to New York
+2 hotel Hotel-Mount-Fuji Perched by the pool drinking tequila sunrises
